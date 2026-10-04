@@ -1,0 +1,421 @@
+{
+ "tools": [
+  {
+   "id": "3e937ee83f5f8137b4b4e99a33fc7a3c",
+   "name": "v0",
+   "cat": "AI app builders",
+   "link": "https://v0.app",
+   "desc": "Vercel's AI builder: describe a UI or app and it generates React/Next.js code you can deploy.",
+   "price": "Freemium",
+   "status": "To try",
+   "tags": [],
+   "works": [
+    "3e937ee83f5f81a58ef8ea54b2cf7e9b",
+    "3eb37ee83f5f81c3be6cfd5ca2393314"
+   ],
+   "alts": [
+    "3e937ee83f5f81898b76df1dd3b0ce24",
+    "3e937ee83f5f81ecb43bd9423fca62e2",
+    "3e937ee83f5f810f9783f1f6913eb036"
+   ],
+   "icon": {
+    "url": "https://github.com/vercel.png?size=200"
+   }
+  },
+  {
+   "id": "3e937ee83f5f81898b76df1dd3b0ce24",
+   "name": "Lovable",
+   "cat": "AI app builders",
+   "link": "https://lovable.dev",
+   "desc": "Build full web apps by chatting with AI, including backend and database.",
+   "price": "Freemium",
+   "status": "To try",
+   "tags": [],
+   "works": [
+    "3eb37ee83f5f81c3be6cfd5ca2393314"
+   ],
+   "alts": [
+    "3e937ee83f5f8137b4b4e99a33fc7a3c",
+    "3e937ee83f5f81ecb43bd9423fca62e2"
+   ],
+   "icon": {
+    "url": "https://github.com/lovable-dev.png?size=200"
+   }
+  },
+  {
+   "id": "3e937ee83f5f81ecb43bd9423fca62e2",
+   "name": "Replit",
+   "cat": "AI app builders",
+   "link": "https://replit.com",
+   "desc": "Online coding environment with an AI agent that builds, runs and hosts apps in the browser.",
+   "price": "Freemium",
+   "status": "To try",
+   "tags": [],
+   "works": [],
+   "alts": [
+    "3e937ee83f5f8137b4b4e99a33fc7a3c",
+    "3e937ee83f5f81898b76df1dd3b0ce24"
+   ],
+   "icon": {
+    "url": "https://github.com/replit.png?size=200"
+   }
+  },
+  {
+   "id": "3e937ee83f5f81a58ef8ea54b2cf7e9b",
+   "name": "Vercel",
+   "cat": "Hosting & deploy",
+   "link": "https://vercel.com",
+   "desc": "Deploy frontend and Next.js sites from GitHub in one click, with a free hobby plan.",
+   "price": "Freemium",
+   "status": "To try",
+   "tags": [],
+   "works": [
+    "3e937ee83f5f8137b4b4e99a33fc7a3c",
+    "3eb37ee83f5f81c3be6cfd5ca2393314",
+    "3e937ee83f5f81e68f13f19ecab25f2a",
+    "3eb37ee83f5f81d0b615e08ccb124b38"
+   ],
+   "alts": [
+    "3e937ee83f5f813fa1e7efff91f55f1b"
+   ],
+   "icon": {
+    "url": "https://github.com/vercel.png?size=200"
+   }
+  },
+  {
+   "id": "3e937ee83f5f813fa1e7efff91f55f1b",
+   "name": "Render",
+   "cat": "Hosting & deploy",
+   "link": "https://render.com",
+   "desc": "Host backends, APIs, databases and cron jobs; free tier for small projects.",
+   "price": "Freemium",
+   "status": "To try",
+   "tags": [],
+   "works": [
+    "3e937ee83f5f81e68f13f19ecab25f2a",
+    "3eb37ee83f5f81d0b615e08ccb124b38",
+    "3eb37ee83f5f81baafa4e82668546810",
+    "3eb37ee83f5f81249730fb113c089655",
+    "3e937ee83f5f810fbb70fcffe7d3a5a3"
+   ],
+   "alts": [
+    "3e937ee83f5f81a58ef8ea54b2cf7e9b"
+   ],
+   "icon": {
+    "url": "https://github.com/renderinc.png?size=200"
+   }
+  },
+  {
+   "id": "3e937ee83f5f81e68f13f19ecab25f2a",
+   "name": "DigitalPlat FreeDomain",
+   "cat": "Domains & DNS",
+   "link": "https://github.com/DigitalPlatDev/FreeDomain",
+   "desc": "Free domain names (.us.kg, .qzz.io, .dpdns.org) from a nonprofit; use with Cloudflare DNS.",
+   "price": "Free",
+   "status": "To try",
+   "tags": [],
+   "works": [
+    "3e937ee83f5f81a58ef8ea54b2cf7e9b",
+    "3e937ee83f5f813fa1e7efff91f55f1b",
+    "3e937ee83f5f810f9783f1f6913eb036"
+   ],
+   "alts": [],
+   "icon": {
+    "url": "https://github.com/DigitalPlatDev.png?size=200"
+   }
+  },
+  {
+   "id": "3e937ee83f5f810fbb70fcffe7d3a5a3",
+   "name": "Reacher",
+   "cat": "APIs & services",
+   "link": "https://reacher.email",
+   "desc": "Checks whether an email address really exists without sending an email. Self-hostable.",
+   "price": "Open source",
+   "status": "To try",
+   "tags": [],
+   "works": [
+    "3e937ee83f5f813fa1e7efff91f55f1b",
+    "3eb37ee83f5f81249730fb113c089655"
+   ],
+   "alts": [],
+   "icon": {
+    "url": "https://github.com/reacherhq.png?size=200"
+   }
+  },
+  {
+   "id": "3e937ee83f5f8154a9ecf91d4d70b047",
+   "name": "Jev Ultrafast",
+   "cat": "AI agents & automation",
+   "link": "https://github.com/browser-use/jev-ultrafast",
+   "desc": "Very fast, cheap AI browser agent from Browser Use: give it a goal and it clicks through websites.",
+   "price": "Open source",
+   "status": "To try",
+   "tags": [],
+   "works": [],
+   "alts": [],
+   "icon": {
+    "url": "https://github.com/browser-use.png?size=200"
+   }
+  },
+  {
+   "id": "3e937ee83f5f810ab448e0cbb9b6e8cd",
+   "name": "SoL-Pi",
+   "cat": "AI agents & automation",
+   "link": "https://github.com/NVlabs/SoL-Pi",
+   "desc": "NVIDIA research project for making AI agent loops faster and more efficient.",
+   "price": "Open source",
+   "status": "To try",
+   "tags": [],
+   "works": [],
+   "alts": [],
+   "icon": {
+    "url": "https://github.com/NVlabs.png?size=200"
+   }
+  },
+  {
+   "id": "3ed37ee83f5f81efa983ec7b787140b1",
+   "name": "Cloudflare Pages",
+   "cat": "Hosting & deploy",
+   "link": "https://pages.cloudflare.com",
+   "desc": "Host your frontend from GitHub on Cloudflare's network; generous free plan with unlimited bandwidth.",
+   "price": "Freemium",
+   "status": "To try",
+   "tags": [],
+   "works": [
+    "3e937ee83f5f81e68f13f19ecab25f2a",
+    "3eb37ee83f5f81d0b615e08ccb124b38",
+    "3ed37ee83f5f81698afac30c5401e1ac",
+    "3ed37ee83f5f81b5ab59ef47861f91a0",
+    "3ed37ee83f5f811cac91f27a0020dc87",
+    "3ed37ee83f5f81abbbe4ffb5507d2dc2"
+   ],
+   "alts": [
+    "3e937ee83f5f81a58ef8ea54b2cf7e9b"
+   ],
+   "icon": {
+    "url": "https://github.com/cloudflare.png?size=200"
+   }
+  },
+  {
+   "id": "3ed37ee83f5f81698afac30c5401e1ac",
+   "name": "Neon",
+   "cat": "Databases & storage",
+   "link": "https://neon.tech",
+   "desc": "Serverless Postgres database with a free tier; spins down when idle and supports database branches.",
+   "price": "Freemium",
+   "status": "To try",
+   "tags": [],
+   "works": [
+    "3e937ee83f5f81a58ef8ea54b2cf7e9b",
+    "3e937ee83f5f813fa1e7efff91f55f1b",
+    "3ed37ee83f5f81b5ab59ef47861f91a0"
+   ],
+   "alts": [],
+   "icon": {
+    "url": "https://github.com/neondatabase.png?size=200"
+   }
+  },
+  {
+   "id": "3ed37ee83f5f81b5ab59ef47861f91a0",
+   "name": "Clerk",
+   "cat": "Auth & logins",
+   "link": "https://clerk.com",
+   "desc": "Drop-in sign-up, login and user accounts (email, Google, etc.) with ready-made UI for React and Next.js.",
+   "price": "Freemium",
+   "status": "To try",
+   "tags": [],
+   "works": [
+    "3e937ee83f5f81a58ef8ea54b2cf7e9b"
+   ],
+   "alts": [],
+   "icon": {
+    "url": "https://github.com/clerk.png?size=200"
+   }
+  },
+  {
+   "id": "3ed37ee83f5f811cac91f27a0020dc87",
+   "name": "Resend",
+   "cat": "APIs & services",
+   "link": "https://resend.com",
+   "desc": "Send emails from your app with a simple API; write emails as React components. Free tier for small projects.",
+   "price": "Freemium",
+   "status": "To try",
+   "tags": [],
+   "works": [
+    "3e937ee83f5f81a58ef8ea54b2cf7e9b",
+    "3e937ee83f5f813fa1e7efff91f55f1b",
+    "3e937ee83f5f810fbb70fcffe7d3a5a3"
+   ],
+   "alts": [],
+   "icon": {
+    "url": "https://github.com/resend.png?size=200"
+   }
+  },
+  {
+   "id": "3ed37ee83f5f81abbbe4ffb5507d2dc2",
+   "name": "Cloudflare R2",
+   "cat": "Databases & storage",
+   "link": "https://www.cloudflare.com/developer-platform/products/r2/",
+   "desc": "File storage for images, uploads and backups (S3-compatible) with no download fees.",
+   "price": "Freemium",
+   "status": "To try",
+   "tags": [],
+   "works": [
+    "3e937ee83f5f813fa1e7efff91f55f1b",
+    "3e937ee83f5f81a58ef8ea54b2cf7e9b"
+   ],
+   "alts": [],
+   "icon": {
+    "url": "https://github.com/cloudflare.png?size=200"
+   }
+  },
+  {
+   "id": "3e937ee83f5f811996e5c40c14d3a200",
+   "name": "Higgsfield",
+   "cat": "AI image & video",
+   "link": "https://higgsfield.ai",
+   "desc": "AI video and image generator with cinematic camera moves and effects, good for ads and social content.",
+   "price": "Freemium",
+   "status": "To try",
+   "tags": [],
+   "works": [
+    "3e937ee83f5f810f9783f1f6913eb036"
+   ],
+   "alts": [],
+   "icon": {
+    "url": "https://github.com/higgsfield-ai.png?size=200"
+   }
+  },
+  {
+   "id": "3e937ee83f5f810f9783f1f6913eb036",
+   "name": "Framer",
+   "cat": "Design & UI",
+   "link": "https://www.framer.com",
+   "desc": "Design and publish websites and landing pages visually, with animations, CMS and hosting built in.",
+   "price": "Freemium",
+   "status": "To try",
+   "tags": [],
+   "works": [
+    "3eb37ee83f5f8121b63cdba7b68a58a0",
+    "3e937ee83f5f811996e5c40c14d3a200",
+    "3e937ee83f5f81e68f13f19ecab25f2a"
+   ],
+   "alts": [
+    "3e937ee83f5f8137b4b4e99a33fc7a3c"
+   ],
+   "icon": {
+    "url": "https://github.com/framer.png?size=200"
+   }
+  },
+  {
+   "id": "3eb37ee83f5f8121b63cdba7b68a58a0",
+   "name": "Figma",
+   "cat": "Design & UI",
+   "link": "https://www.figma.com/education/",
+   "desc": "Design wireframes and mockups together with your group. Free education plan with a student email.",
+   "price": "Freemium",
+   "status": "To try",
+   "tags": [],
+   "works": [
+    "3eb37ee83f5f81118091f0bbc5958677",
+    "3e937ee83f5f810f9783f1f6913eb036",
+    "3eb37ee83f5f81c3be6cfd5ca2393314"
+   ],
+   "alts": [],
+   "icon": {
+    "url": "https://github.com/figma.png?size=200"
+   }
+  },
+  {
+   "id": "3eb37ee83f5f81118091f0bbc5958677",
+   "name": "Realtime Colors",
+   "cat": "Design & UI",
+   "link": "https://www.realtimecolors.com",
+   "desc": "Preview a color palette and fonts on a real website layout and export them as CSS.",
+   "price": "Free",
+   "status": "To try",
+   "tags": [],
+   "works": [
+    "3eb37ee83f5f8121b63cdba7b68a58a0"
+   ],
+   "alts": [],
+   "icon": {
+    "url": "https://www.google.com/s2/favicons?domain=realtimecolors.com&sz=256"
+   }
+  },
+  {
+   "id": "3eb37ee83f5f81c3be6cfd5ca2393314",
+   "name": "shadcn/ui",
+   "cat": "Design & UI",
+   "link": "https://ui.shadcn.com",
+   "desc": "Copy-paste UI components for Next.js + Tailwind that you fully own and can edit.",
+   "price": "Open source",
+   "status": "To try",
+   "tags": [],
+   "works": [
+    "3e937ee83f5f8137b4b4e99a33fc7a3c",
+    "3e937ee83f5f81898b76df1dd3b0ce24",
+    "3e937ee83f5f81a58ef8ea54b2cf7e9b",
+    "3eb37ee83f5f8121b63cdba7b68a58a0"
+   ],
+   "alts": [],
+   "icon": {
+    "url": "https://github.com/shadcn-ui.png?size=200"
+   }
+  },
+  {
+   "id": "3eb37ee83f5f81d0b615e08ccb124b38",
+   "name": "Sentry",
+   "cat": "Dev tools",
+   "link": "https://sentry.io",
+   "desc": "Error tracking: alerts you with details when your frontend or backend crashes.",
+   "price": "Freemium",
+   "status": "To try",
+   "tags": [],
+   "works": [
+    "3e937ee83f5f81a58ef8ea54b2cf7e9b",
+    "3e937ee83f5f813fa1e7efff91f55f1b"
+   ],
+   "alts": [],
+   "icon": {
+    "url": "https://github.com/getsentry.png?size=200"
+   }
+  },
+  {
+   "id": "3eb37ee83f5f81baafa4e82668546810",
+   "name": "cron-job.org",
+   "cat": "Dev tools",
+   "link": "https://cron-job.org",
+   "desc": "Free scheduled URL calls. Wakes up a sleeping Render backend and triggers jobs like price checks on a schedule.",
+   "price": "Free",
+   "status": "To try",
+   "tags": [],
+   "works": [
+    "3e937ee83f5f813fa1e7efff91f55f1b"
+   ],
+   "alts": [],
+   "icon": {
+    "url": "https://www.google.com/s2/favicons?domain=cron-job.org&sz=256"
+   }
+  },
+  {
+   "id": "3eb37ee83f5f81249730fb113c089655",
+   "name": "Bruno",
+   "cat": "Dev tools",
+   "link": "https://www.usebruno.com",
+   "desc": "API client for testing backend routes; saves requests as files inside your repo. Postman alternative.",
+   "price": "Open source",
+   "status": "To try",
+   "tags": [],
+   "works": [
+    "3e937ee83f5f813fa1e7efff91f55f1b",
+    "3e937ee83f5f810fbb70fcffe7d3a5a3"
+   ],
+   "alts": [],
+   "icon": {
+    "url": "https://github.com/usebruno.png?size=200"
+   }
+  }
+ ],
+ "updatedAt": "2026-10-04T00:00:00Z"
+}
